@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-dataset-project-
-how to clean a samsung galaxy s smartphone data
+How to clean a Samsung Galaxy S smartphone data
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 ================================================================
